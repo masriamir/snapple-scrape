@@ -1,0 +1,1 @@
+This is a simple web scraper to extract all the facts from [http://www.snapple.com](http://www.snapple.com). BeautifulSoup4 is used to parse the website. A CSV file is generated with the list of facts.
